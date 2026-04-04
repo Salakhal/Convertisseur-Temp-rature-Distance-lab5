@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="HardcodedText,Autofill">
+
+    <TextView
+        android:text="Outil Kilométrique"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"/>
+
+    <RadioGroup android:id="@+id/groupe_radio_longueur"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/radio_kilo_vers_mile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Système Métrique -> Impérial"
+            android:checked="true"/>
+
+        <RadioButton
+            android:id="@+id/radio_mile_vers_kilo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Impérial -> Métrique"
+            android:layout_marginStart="24dp"/>
+    </RadioGroup>
+
+    <EditText android:id="@+id/champ_entree_longueur"
+        android:hint="Indiquez la distance"
+        android:inputType="numberDecimal"
+        android:minHeight="50dp"
+        android:layout_marginTop="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button android:id="@+id/bouton_valider_longueur"
+        android:text="Lancer la conversion"
+        android:layout_marginTop="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView android:id="@+id/texte_sortie_longueur"
+        android:text="Bilan : aucun calcul effectué"
+        android:textSize="18sp"
+        android:layout_marginTop="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

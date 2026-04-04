@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="HardcodedText,Autofill">
+
+    <TextView
+        android:text="Outil Thermométrique"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"/>
+
+    <RadioGroup android:id="@+id/groupe_radio_thermo"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/radio_cel_vers_fah"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mode C° -> F°"
+            android:checked="true"/>
+
+        <RadioButton
+            android:id="@+id/radio_fah_vers_cel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mode F° -> C°"
+            android:layout_marginStart="24dp"/>
+    </RadioGroup>
+
+    <EditText android:id="@+id/champ_entree_thermo"
+        android:hint="Indiquez la température"
+        android:inputType="numberDecimal|numberSigned"
+        android:minHeight="50dp"
+        android:layout_marginTop="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button android:id="@+id/bouton_valider_thermo"
+        android:text="Lancer la conversion"
+        android:layout_marginTop="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView android:id="@+id/texte_sortie_thermo"
+        android:text="Bilan : aucun calcul effectué"
+        android:textSize="18sp"
+        android:layout_marginTop="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
