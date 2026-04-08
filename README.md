@@ -41,13 +41,26 @@ L'application est structurée en deux sections principales :
 ## 📸 Captures d'écran et Démo
 
 ### Démo Vidéo
-*(Glisse et dépose ta vidéo .mp4 ici quand tu seras sur le site de GitHub, le lien se créera tout seul)*
+
 
 ### Captures d'écran
 Voici un aperçu des deux onglets de l'application :
+<img width="491" height="984" alt="image" src="https://github.com/user-attachments/assets/3a9a09b6-93d0-4cd1-85ac-dc1e164585ba" />
 
-<p align="center">
-  <img src="LIEN_DE_TON_IMAGE_THERMIQUE.png" width="300" title="Onglet Thermique">
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="LIEN_DE_TON_IMAGE_METROLOGIE.png" width="300" title="Onglet Métrologie">
-</p>
+<img width="491" height="981" alt="image" src="https://github.com/user-attachments/assets/dc3c97d7-ab95-439f-b41f-084923ae1a08" />
+
+<img width="489" height="966" alt="image" src="https://github.com/user-attachments/assets/61b5edef-58d3-4b43-8d7c-8a7682d0c7a7" />
+
+
+## 👤 Auteur
+
+* **École Normale Supérieure de Marrakech**
+  
+* **Réalisé par :** SALMA LAKHAL
+  
+* **Filière  :** CLE_INFO_S5
+
+  
+* **Encadré par :** Pr. Mohamed LACHGAR
+
+* **Module :** `Programmation Mobile : Android avec Java`
