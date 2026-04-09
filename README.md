@@ -45,11 +45,15 @@ L'application est structurée en deux sections principales :
 
 ### Captures d'écran
 Voici un aperçu des deux onglets de l'application :
-<img width="491" height="984" alt="image" src="https://github.com/user-attachments/assets/3a9a09b6-93d0-4cd1-85ac-dc1e164585ba" />
 
-<img width="491" height="981" alt="image" src="https://github.com/user-attachments/assets/dc3c97d7-ab95-439f-b41f-084923ae1a08" />
+<img width="351" height="753" alt="image" src="https://github.com/user-attachments/assets/b40fe513-a443-44d5-90d0-a39ee332df55" />
 
-<img width="489" height="966" alt="image" src="https://github.com/user-attachments/assets/61b5edef-58d3-4b43-8d7c-8a7682d0c7a7" />
+<img width="176" height="365" alt="image" src="https://github.com/user-attachments/assets/a0e6716f-9d99-4dd1-b05e-73bc79f31e96" />
+
+
+<img width="359" height="730" alt="image" src="https://github.com/user-attachments/assets/3429c084-8ca0-45e9-8797-2d25565d6d72" />
+
+<img width="368" height="752" alt="image" src="https://github.com/user-attachments/assets/7438dbe3-a810-43c0-8735-270223903ae4" />
 
 
 ## 👤 Auteur
