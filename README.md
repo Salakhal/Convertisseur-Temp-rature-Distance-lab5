@@ -40,7 +40,8 @@ L'application est structurée en deux sections principales :
 ---
 ## 📸 Captures d'écran et Démo
 
-### Démo Vidéo
+
+
 
 
 ### Captures d'écran
@@ -62,6 +63,15 @@ Voici un aperçu des deux onglets de l'application :
 <img width="368" height="752" alt="image" src="https://github.com/user-attachments/assets/7438dbe3-a810-43c0-8735-270223903ae4" />
 
 ---
+
+
+
+### Démo Vidéo
+
+
+https://github.com/user-attachments/assets/6689f6ac-fd97-4b1d-8d95-5a1c22991999
+
+
 
 ## 👤 Auteur
 
